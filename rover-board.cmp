@@ -1,0 +1,267 @@
+Cmp-Mod V01 Created by PcbNew   date = 11/10/2017 14:40:45
+
+BeginCmp
+TimeStamp = 59DE0013
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DDFFFD
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB5902
+Path = /58EB8313
+Reference = J2;
+ValeurCmp = CONN_01X03_RPI_VCC;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB5976
+Path = /58EB7ED0
+Reference = U3;
+ValeurCmp = MCP3008;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB5952
+Path = /58EB7C9D
+Reference = U1;
+ValeurCmp = level-converter-ultrasonic;
+IdModule  = rover-board:Pin_Header_Straight_Level_Converter_2x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB5962
+Path = /58EB7CDD
+Reference = U2;
+ValeurCmp = level-converter-infrared-spi;
+IdModule  = rover-board:Pin_Header_Straight_Level_Converter_2x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB591E
+Path = /58EB8600
+Reference = J5;
+ValeurCmp = CONN_01X04_HC-SR04_ULTRASONIC_0;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB592D
+Path = /58EB86E0
+Reference = J7;
+ValeurCmp = CONN_01X03_SHARP_INFRARED_0;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB5934
+Path = /58EBC772
+Reference = J8;
+ValeurCmp = CONN_01X03_SHARP_INFRARED_1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB593B
+Path = /58EBC72D
+Reference = J9;
+ValeurCmp = CONN_01X03_SHARP_INFRARED_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58FB5942
+Path = /58EBC7CE
+Reference = J10;
+ValeurCmp = CONN_01X03_SHARP_INFRARED_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ECDACA
+Path = /58ECDE0F
+Reference = J3;
+ValeurCmp = CONN_01X04_RPI_SPI;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ECDAD2
+Path = /58ECDE78
+Reference = J11;
+ValeurCmp = CONN_01X04_RPI_GPIO;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ECDECD
+Path = /58ECF841
+Reference = J14;
+ValeurCmp = CONN_01X04_SPI_OUT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ECE082
+Path = /58EB859F
+Reference = J6;
+ValeurCmp = CONN_01X04_HC-SR04_ULTRASONIC_1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ECE089
+Path = /58ED09E8
+Reference = J13;
+ValeurCmp = CONN_01X03_VCC_OUT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ECF525
+Path = /58ED8343
+Reference = J15;
+ValeurCmp = CONN_01X04_MCP3208_UNUSED;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DCFCCA
+Path = /59DD7522
+Reference = DS1;
+ValeurCmp = CONN_OLED;
+IdModule  = w_misc_comp:oled-0.96-ssd1306;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DCFCE0
+Path = /58EB82D9
+Reference = J1;
+ValeurCmp = CONN_01X02_RPI_I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DDCF9A
+Path = /59DD2428
+Reference = J16;
+ValeurCmp = CONN_01X04;
+IdModule  = w_pin_strip:pin_strip_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DDCFA7
+Path = /59DD2673
+Reference = J17;
+ValeurCmp = CONN_01X04;
+IdModule  = w_pin_strip:pin_strip_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DDCFB4
+Path = /59DD26CA
+Reference = J18;
+ValeurCmp = CONN_01X04;
+IdModule  = w_pin_strip:pin_strip_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DDCFC1
+Path = /59DD2729
+Reference = J19;
+ValeurCmp = CONN_01X04;
+IdModule  = w_pin_strip:pin_strip_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE731
+Path = /59DD1C0F
+Reference = Buzzer;
+ValeurCmp = Buzzer;
+IdModule  = Buzzers_Beepers:BUZZER;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE73E
+Path = /59DE38E4
+Reference = J12;
+ValeurCmp = CONN_DHT22;
+IdModule  = w_pin_strip:pin_strip_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE74B
+Path = /59DDEE0C
+Reference = J20;
+ValeurCmp = RPI_GPIO;
+IdModule  = w_pin_strip:pin_strip_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE759
+Path = /59DE06B6
+Reference = J21;
+ValeurCmp = CONN_HMC5883L;
+IdModule  = w_pin_strip:pin_strip_5;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE76A
+Path = /59DE23DB
+Reference = J22;
+ValeurCmp = CONN_GY-521;
+IdModule  = w_pin_strip:pin_strip_8;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE77B
+Path = /59DE80FC
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE78C
+Path = /59DE81D5
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE7AB
+Path = /59DE6C08
+Reference = SW1;
+ValeurCmp = SW_USER;
+IdModule  = Buttons_Switches_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE7CA
+Path = /59DE6C8B
+Reference = SW2;
+ValeurCmp = SW_SHTDWN;
+IdModule  = Buttons_Switches_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59DFE8FB
+Path = /59DE3F9E
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+EndListe
