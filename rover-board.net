@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source C:\Users\Mustafa\Documents\KiCad\Projects\rover-board\rover-board.sch)
-    (date "16/10/2017 15:23:12")
+    (source C:/Users/Mustafa/Documents/KiCad/Projects/rover-board/rover-board.sch)
+    (date "07/11/2017 19:52:27")
     (tool "Eeschema 4.0.5")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -113,7 +113,7 @@
       (tstamp 58ED8343))
     (comp (ref BZ1)
       (value Buzzer)
-      (footprint Buzzers_Beepers:BUZZER)
+      (footprint Buzzers_Beepers:Buzzer_12x9.5RM7.6)
       (libsource (lib device) (part Buzzer))
       (sheetpath (names /) (tstamps /))
       (tstamp 59DD1C0F))
