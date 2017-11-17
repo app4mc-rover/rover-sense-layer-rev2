@@ -1,0 +1,28 @@
+Drill report for C:\Users\Mustafa\Documents\KiCad\Projects\rover-board\rover-board.kicad_pcb
+Created on 17/11/2017 15:23:27
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'rover-board.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (31 holes)
+    T2  0.70mm  0.028"  (6 holes)
+    T3  0.80mm  0.031"  (16 holes)
+    T4  1.00mm  0.039"  (94 holes)
+    T5  1.00mm  0.039"  (17 holes)
+    T6  1.10mm  0.043"  (8 holes)
+
+    Total plated holes count 172
+
+
+Drill file 'rover-board-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.70mm  0.106"  (4 holes)
+
+    Total unplated holes count 4
